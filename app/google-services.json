@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506050490691",
+    "project_id": "mysocial-77e94",
+    "storage_bucket": "mysocial-77e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506050490691:android:b139de085f8ad2b9c3bff6",
+        "android_client_info": {
+          "package_name": "com.code.mysocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0D2nFBt9NcM6pfKV_jovonhD8F9AlVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
